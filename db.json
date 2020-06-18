@@ -1,4 +1,5 @@
-{"stocks":
+{
+  "stocks":
   [
     { "id": 1,
       "ticker" :"GOOG",
